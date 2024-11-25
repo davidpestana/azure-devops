@@ -59,7 +59,7 @@
 
 ## Sesión 3: Pipeline de Entrega Continua (CD)
 
-### Objetivos
+### Objetivos 
 - Diseñar pipelines de CD para despliegues on-premises, cloud y serverless.
 - Integrar herramientas de infraestructura como código (IaC).
 
